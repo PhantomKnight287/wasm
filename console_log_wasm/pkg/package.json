@@ -1,0 +1,12 @@
+{
+  "name": "console_log_wasm",
+  "version": "0.1.0",
+  "files": [
+    "console_log_wasm_bg.wasm",
+    "console_log_wasm.js",
+    "console_log_wasm.d.ts"
+  ],
+  "module": "console_log_wasm.js",
+  "types": "console_log_wasm.d.ts",
+  "sideEffects": false
+}

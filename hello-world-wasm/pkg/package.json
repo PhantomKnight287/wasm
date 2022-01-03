@@ -1,0 +1,12 @@
+{
+  "name": "hello-world-wasm",
+  "version": "0.1.0",
+  "files": [
+    "hello_world_wasm_bg.wasm",
+    "hello_world_wasm.js",
+    "hello_world_wasm.d.ts"
+  ],
+  "module": "hello_world_wasm.js",
+  "types": "hello_world_wasm.d.ts",
+  "sideEffects": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "closures-wasm",
+  "version": "0.1.0",
+  "files": [
+    "closures_wasm_bg.wasm",
+    "closures_wasm.js",
+    "closures_wasm.d.ts"
+  ],
+  "module": "closures_wasm.js",
+  "types": "closures_wasm.d.ts",
+  "sideEffects": false
+}

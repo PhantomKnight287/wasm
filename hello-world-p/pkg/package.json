@@ -1,0 +1,12 @@
+{
+  "name": "hello-world-p",
+  "version": "0.1.0",
+  "files": [
+    "hello_world_p_bg.wasm",
+    "hello_world_p.js",
+    "hello_world_p.d.ts"
+  ],
+  "module": "hello_world_p.js",
+  "types": "hello_world_p.d.ts",
+  "sideEffects": false
+}
