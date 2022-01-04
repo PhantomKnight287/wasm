@@ -8,3 +8,4 @@ To run an example, just type:
 cd <folder_name>
 python3 -m http.server
 ```
+Some of the code is broken idk y
